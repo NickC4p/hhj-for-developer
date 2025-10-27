@@ -3,4 +3,6 @@ Hi developers! Fork the repository and, in the file developers/authors, write yo
 
 For problem go to the **Issues** sector.
 
+The signature must not contain : , . _ or -
+
 Thank You.
